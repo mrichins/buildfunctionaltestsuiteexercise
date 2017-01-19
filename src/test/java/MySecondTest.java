@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class MyFirstTest extends TestBase{
+public class MySecondTest extends TestBase{
     @Test
     public void testGoogle() throws InterruptedException {
         driver.get("https://www.google.com");

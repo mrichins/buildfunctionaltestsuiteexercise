@@ -1,10 +1,12 @@
+package PageObjects;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 public class ResultsPage extends BasePage {
 
-    ResultsPage(WebDriver driver){
+    public ResultsPage(WebDriver driver){
         super(driver);
     }
 
