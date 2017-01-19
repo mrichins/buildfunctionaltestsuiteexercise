@@ -1,9 +1,6 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-/**
- * Created by mrichins on 1/19/17.
- */
 public class Page {
     private WebDriver driver;
 
